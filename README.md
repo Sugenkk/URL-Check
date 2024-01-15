@@ -4,7 +4,7 @@ This script was created using the Python programming language which aims to dete
 
 How to :
 
-1. make sure the python script and text file in one directory
+1. make sure the python script and text(test.txt) file in one directory
    
 ![image](https://github.com/Sugenkk/URL-Check/assets/65660865/55368576-10ac-45e1-88e9-fcbc07408a20)
 
