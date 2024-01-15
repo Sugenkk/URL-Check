@@ -1,0 +1,12 @@
+%3Cscript
+%3C%2Fscript
+script>
+script%3E
+SRC=javascript
+IMG%20
+<script>
+%3C%2F
+</
+%3C
+%2F%3E
+%3E
