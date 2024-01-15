@@ -9,7 +9,7 @@ How to :
 ![image](https://github.com/Sugenkk/URL-Check/assets/65660865/55368576-10ac-45e1-88e9-fcbc07408a20)
 
 
-3. Then running script and input the URL, the sample below is running in linux
+2. Then running script and input the URL, the sample below is running in linux
    
 ![image](https://github.com/Sugenkk/URL-Check/assets/65660865/a66a82ad-89b1-4860-83d3-f162364044a9)
 
